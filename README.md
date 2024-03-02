@@ -1,2 +1,8 @@
 # my-tea-
 say;hi
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x28356cdD0bE7a097b468CE8650527613093D380c'
+quorum: 1
